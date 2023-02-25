@@ -1,6 +1,8 @@
 <div id="header" align="center">
-  <img align='center' src='https://github.com/aryoyudhanto/aryoyudhanto/blob/main/assets/Beige%20%26%20Black%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png' width='800' height='200'/>
+  <img align='center' src='https://github.com/aryoyudhanto/aryoyudhanto/blob/main/assets/Beige%20%26%20Black%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png' width='1000' height='300'/>
 </div>
+
+<br>
 
 <div id="header" align="center">
   <p><a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=pacifico&size=35&pause=5000&color=161b228&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Yudha;Front+End+Engineer;Nice+too+see+you" alt="Typing SVG" /></a></p>
@@ -53,7 +55,7 @@ Hi, I am a Frontend Engineer with UI/UX design and web development skills. Curre
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
+![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF)
 ![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React JS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![React Router Dom](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
