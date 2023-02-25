@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img align='center' src='https://github.com/aryoyudhanto/assets/' width='1000' height='300'/>
+  <img align='center' src='https://github.com/aryoyudhanto/aryoyudhanto/blob/main/assets/Beige%20%26%20Black%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png' width='800' height='200'/>
 </div>
 
 <div id="header" align="center">
