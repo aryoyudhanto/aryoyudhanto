@@ -111,7 +111,7 @@ Let's connect on LinkedIn or you can contact me at aryoyudhanto25399@gmail.com.
   <tr>
     <td align="center" style="width: 50%; border: none;">
       <a href="https://github.com/aryoyudhanto">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=aryoyudhanto&show_icons=true&include_all_commits=true&count_private=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Yudha's github stats" />
+        <img src="https://github-stats-extended.vercel.app/api?username=aryoyudhanto&show_icons=true&include_all_commits=true&count_private=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Yudha's github stats" />
       </a>
     </td>
     <td align="center" style="width: 50%; border: none;">
@@ -121,5 +121,3 @@ Let's connect on LinkedIn or you can contact me at aryoyudhanto25399@gmail.com.
     </td>
   </tr>
 </table>
-
-[![](https://visitcount.itsvg.in/api?id=aryoyudhanto&label=Profile%20Views&color=12&icon=1&pretty=true)](https://visitcount.itsvg.in)
